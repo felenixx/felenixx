@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @felenixx
+- 👀 I’m interested in software
+- 🌱 I’m currently learning C,C++,C#,Python
+- 📫 How to reach me U CAN't
